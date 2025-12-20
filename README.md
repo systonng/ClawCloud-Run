@@ -7,7 +7,7 @@
 ## ⚠️ 注意
 - 首次运行：可能需要设备验证，收到 TG 通知后 30 秒内批准
 - 如果设置了2FA验证的，请改为Mobile优先验证
-- REPO_TOKEN：需要有 Secrets 写入权限才能自动更新
+- REPO_TOKEN：需要有 Secrets 写入权限才能自动更新 Cookie
 - Cookie 有效期：每次运行都会更新，保持最新
 ![设备验证](./1.png)
 
